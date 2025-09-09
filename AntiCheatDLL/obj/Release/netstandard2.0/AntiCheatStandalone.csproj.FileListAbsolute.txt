@@ -1,0 +1,11 @@
+/workspace/AntiCheatDLL/obj/Release/netstandard2.0/AntiCheatStandalone.csproj.AssemblyReference.cache
+/workspace/AntiCheatDLL/obj/Release/netstandard2.0/AntiCheatStandalone.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/AntiCheatDLL/obj/Release/netstandard2.0/AntiCheatStandalone.AssemblyInfoInputs.cache
+/workspace/AntiCheatDLL/obj/Release/netstandard2.0/AntiCheatStandalone.AssemblyInfo.cs
+/workspace/AntiCheatDLL/obj/Release/netstandard2.0/AntiCheatStandalone.csproj.CoreCompileInputs.cache
+/workspace/AntiCheatDLL/obj/Release/netstandard2.0/AntiCheatStandalone.sourcelink.json
+/workspace/AntiCheatDLL/bin/Release/netstandard2.0/AntiCheat.deps.json
+/workspace/AntiCheatDLL/bin/Release/netstandard2.0/AntiCheat.dll
+/workspace/AntiCheatDLL/bin/Release/netstandard2.0/AntiCheat.pdb
+/workspace/AntiCheatDLL/obj/Release/netstandard2.0/AntiCheat.dll
+/workspace/AntiCheatDLL/obj/Release/netstandard2.0/AntiCheat.pdb

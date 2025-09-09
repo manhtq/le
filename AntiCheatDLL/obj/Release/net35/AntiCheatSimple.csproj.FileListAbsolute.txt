@@ -1,0 +1,7 @@
+/workspace/AntiCheatDLL/bin/Release/net35/AntiCheatSimple.dll
+/workspace/AntiCheatDLL/bin/Release/net35/AntiCheatSimple.pdb
+/workspace/AntiCheatDLL/obj/Release/net35/AntiCheatSimple.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/AntiCheatDLL/obj/Release/net35/AntiCheatSimple.csproj.CoreCompileInputs.cache
+/workspace/AntiCheatDLL/obj/Release/net35/AntiCheatSimple.sourcelink.json
+/workspace/AntiCheatDLL/obj/Release/net35/AntiCheatSimple.dll
+/workspace/AntiCheatDLL/obj/Release/net35/AntiCheatSimple.pdb

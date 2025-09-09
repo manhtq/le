@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AntiCheatSystem
+build_property.ProjectDir = /workspace/AntiCheatDLL/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

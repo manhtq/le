@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspace/AntiCheatDLL/AntiCheatSimple.csproj": {}
+  },
+  "projects": {
+    "/workspace/AntiCheatDLL/AntiCheatSimple.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspace/AntiCheatDLL/AntiCheatSimple.csproj",
+        "projectName": "AntiCheatSimple",
+        "projectPath": "/workspace/AntiCheatDLL/AntiCheatSimple.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/workspace/AntiCheatDLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net35"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/ubuntu/.dotnet/sdk/8.0.414/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "RMeoAAJ4gD0=",
+  "dgSpecHash": "RUv37AarmjU=",
   "success": true,
-  "projectFilePath": "/workspace/AntiCheatDLL/AntiCheatStandalone.csproj",
+  "projectFilePath": "/workspace/AntiCheatDLL/AntiCheatSimple.csproj",
   "expectedPackageFiles": [
-    "/home/ubuntu/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "/home/ubuntu/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/ubuntu/.nuget/packages/microsoft.netframework.referenceassemblies.net35/1.0.3/microsoft.netframework.referenceassemblies.net35.1.0.3.nupkg.sha512"
   ],
   "logs": []
 }
